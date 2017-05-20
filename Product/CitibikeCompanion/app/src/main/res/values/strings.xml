@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">"Citibike Companion "</string>
+
+    <string name="error_message">OOOPS! IT SEEMS LIKE YOU HAVE AN ERROR! SWIPE DOWN TO REFRESH!</string>
+
+    <string name="go_to_maps">Get Directions</string>
+</resources>
